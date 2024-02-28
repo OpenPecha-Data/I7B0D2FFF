@@ -1,0 +1,184 @@
+id: 0c68e9e658024656aa65ac59f763d2d0
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  abc1a3639cda40cdaeafe6fff9622dec:
+    span:
+      start: 0
+      end: 639
+    imgnum: 1
+    reference: I3CN17310001.tif
+  71304b206fff4c1fb17df2f6b1e59b64:
+    span:
+      start: 640
+      end: 842
+    imgnum: 5
+    reference: I3CN17310005.jpg
+  84bf84a8a7eb4f0c885bc88a3c9ab249:
+    span:
+      start: 843
+      end: 1315
+    imgnum: 6
+    reference: I3CN17310006.jpg
+  94726b97c9034ec1816f9221cd6ff8b0:
+    span:
+      start: 1316
+      end: 1776
+    imgnum: 7
+    reference: I3CN17310007.jpg
+  568dbc7c37f240c6b662ef3bc6b6f60d:
+    span:
+      start: 1777
+      end: 2322
+    imgnum: 8
+    reference: I3CN17310008.jpg
+  72806e2990be4678988dec4b9d681f16:
+    span:
+      start: 2323
+      end: 2801
+    imgnum: 9
+    reference: I3CN17310009.jpg
+  810d4665f33a484191f7d2d67d5f95fc:
+    span:
+      start: 2802
+      end: 3324
+    imgnum: 10
+    reference: I3CN17310010.jpg
+  4e0cc7009fc64601a429090f71147d2e:
+    span:
+      start: 3325
+      end: 3837
+    imgnum: 11
+    reference: I3CN17310011.jpg
+  972a52d5412c4495a3517062ccf6f82b:
+    span:
+      start: 3838
+      end: 4357
+    imgnum: 12
+    reference: I3CN17310012.jpg
+  b720f29a78cb48308b4e3f8480b218f1:
+    span:
+      start: 4358
+      end: 4820
+    imgnum: 13
+    reference: I3CN17310013.jpg
+  122b43fff08b4837b3fe986cbfaf1553:
+    span:
+      start: 4821
+      end: 5319
+    imgnum: 14
+    reference: I3CN17310014.jpg
+  aabf69860c4447bebe008f0389bc440d:
+    span:
+      start: 5320
+      end: 5772
+    imgnum: 15
+    reference: I3CN17310015.jpg
+  23c657cf43b04c41a74e921cba4e90e2:
+    span:
+      start: 5773
+      end: 6304
+    imgnum: 16
+    reference: I3CN17310016.jpg
+  a74b7e0f399a4f1ca09bab055fa8769f:
+    span:
+      start: 6305
+      end: 6718
+    imgnum: 17
+    reference: I3CN17310017.jpg
+  369d121c0c8e41cc91fcd0b89703987a:
+    span:
+      start: 6719
+      end: 7199
+    imgnum: 18
+    reference: I3CN17310018.jpg
+  d0a3e07f689c42b6aa9cc6678a2c80cb:
+    span:
+      start: 7200
+      end: 7665
+    imgnum: 19
+    reference: I3CN17310019.jpg
+  26bc18630fd44f5ab3a08809b5e94fa7:
+    span:
+      start: 7666
+      end: 8123
+    imgnum: 20
+    reference: I3CN17310020.jpg
+  88cf66cd3af04542af00ed3ebbd8491f:
+    span:
+      start: 8124
+      end: 8587
+    imgnum: 21
+    reference: I3CN17310021.jpg
+  907ea821ba274161acb21f7a8234a8b8:
+    span:
+      start: 8588
+      end: 9036
+    imgnum: 22
+    reference: I3CN17310022.jpg
+  fb88bd87c277453db7060223e7821ce7:
+    span:
+      start: 9037
+      end: 9477
+    imgnum: 23
+    reference: I3CN17310023.jpg
+  e91c4071199048c1848720095752c5c2:
+    span:
+      start: 9478
+      end: 9966
+    imgnum: 24
+    reference: I3CN17310024.jpg
+  6d95b5250a634415bffc1827733e182f:
+    span:
+      start: 9967
+      end: 10515
+    imgnum: 25
+    reference: I3CN17310025.jpg
+  ae23ac24ab5b4d68b63d2528ccfcca4a:
+    span:
+      start: 10516
+      end: 11121
+    imgnum: 26
+    reference: I3CN17310026.jpg
+  a1ef7c8e9aed433a907ab6911f9b37ac:
+    span:
+      start: 11122
+      end: 11664
+    imgnum: 27
+    reference: I3CN17310027.jpg
+  382cf2a955e04138ad9f64a44803a315:
+    span:
+      start: 11665
+      end: 12233
+    imgnum: 28
+    reference: I3CN17310028.jpg
+  44fbfa0aa0054f82b9738e8ab69e5220:
+    span:
+      start: 12234
+      end: 12718
+    imgnum: 29
+    reference: I3CN17310029.jpg
+  66e868c255644d95a12ed9326d5905f9:
+    span:
+      start: 12719
+      end: 13246
+    imgnum: 30
+    reference: I3CN17310030.jpg
+  1ceb663d4354471597452bd6b98a174b:
+    span:
+      start: 13247
+      end: 13745
+    imgnum: 31
+    reference: I3CN17310031.jpg
+  39a614aa423749779eae896e0f2a62f9:
+    span:
+      start: 13746
+      end: 14242
+    imgnum: 32
+    reference: I3CN17310032.jpg
+  9b42e9969887458cb8184b6f61a61e41:
+    span:
+      start: 14243
+      end: 14716
+    imgnum: 33
+    reference: I3CN17310033.jpg
